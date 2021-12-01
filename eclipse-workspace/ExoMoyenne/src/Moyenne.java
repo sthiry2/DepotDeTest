@@ -14,6 +14,8 @@ public class Moyenne {
 		float nombre2;
 		//Réel moyenne
 		float moyenne;
+
+//
 		
 		//SAISIES
 		//ecrire "Donnez moi svp le premier nombre:"
